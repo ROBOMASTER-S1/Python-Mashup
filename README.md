@@ -1,2 +1,2 @@
 # Python-Mashup
-Just Python Mashup of Everything.
+Just a Python Mashup of Everything...
